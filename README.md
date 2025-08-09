@@ -1,4 +1,4 @@
-# 📦 Travel-Booking-Data-Ingestion-Quality-Pipeline-PyDeequ-Delta
+# 📦 Travel Booking-Data Ingestion Pipeline with PyDeequ-SCD2
 
 ## 📋 Project Overview
 
