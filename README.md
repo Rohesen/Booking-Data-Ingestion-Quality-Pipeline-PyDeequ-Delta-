@@ -10,7 +10,7 @@ This project implements an **incremental ETL pipeline** on **Databricks** that:
 * Maintains customer history using **SCD Type 2** in a **dimension table**
 * Writes results to **Delta tables** for analytics and reporting
 
-![project-workflow](/project-architecture)
+![project-workflow](/project-architecture.png)
 ---
 
 ## 🛠 Tech Stack
