@@ -1,4 +1,4 @@
-# 📦 Databricks Incremental Data Pipeline with PyDeequ & SCD2
+# 📦 Travel-Booking-Data-Ingestion-Quality-Pipeline-PyDeequ-Delta
 
 ## 📋 Project Overview
 
